@@ -1,0 +1,11 @@
+{
+  "name": "@yorku-fullstack/day-one-assessment",
+  "version": "1.0.0",
+  "scripts": {
+    "variables": "node src/variables",
+    "function": "node src/functions",
+    "iteration": "node src/iteration",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Palmer <mspalmer91@gmail.com>"
+}
